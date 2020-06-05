@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923936033703",
+    "firebase_url": "https://omniwysenotifications-14fa5.firebaseio.com",
+    "project_id": "omniwysenotifications-14fa5",
+    "storage_bucket": "omniwysenotifications-14fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923936033703:android:a46f0f8fba794f4a7d8482",
+        "android_client_info": {
+          "package_name": "com.example.omniwysenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923936033703-88oclujdm804o80o97mjcjvbbvllb85m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdzcIA_h7EFCZwIV8C0UizmTDXZ1eSeK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923936033703-88oclujdm804o80o97mjcjvbbvllb85m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
